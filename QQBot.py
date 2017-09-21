@@ -20,12 +20,12 @@ reload(sys)
 sys.setdefaultencoding("utf-8")
 
 #SET YOUR OWN PARAMETERS HERE
-tulingkey = '#YOUR KEY HERE'
-mailserver = 'your smtp server, port 25(no encryption). e.g.:smtp.126.com'
-mailsig = 'sender signiture, e.g.:QQParking Notification'
-mailuser = 'your mail address of sender: e.g.:sender@126.com'
-mailpass = 'sender mail password (to login to smtp server)'
-sendtomail = '#send to which mail box. e.g.: recv@gmail.com'
+tulingkey = 'c7c5abbc9ec9cad3a63bde71d17e3c2c'
+mailserver = 'smtp.126.com'
+mailsig = 'guajigq'
+mailuser = 'qqparking@126.com'
+mailpass = 'uyyxdrzrrxntidkh'
+sendtomail = 'quajigq@126.com'
 #-----END OF SECTION-------
 
 HttpClient_Ist = HttpClient()
